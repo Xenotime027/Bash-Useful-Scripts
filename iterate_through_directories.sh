@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Iterate through directories and show files
 
 declare -a my_dirs=("0.0" "0.2" "0.4" "0.6") #Iterates through this array of arbitrary elements, used as folder names
